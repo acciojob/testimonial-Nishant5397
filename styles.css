@@ -1,22 +1,20 @@
-.container{
+.testimonial-section {
+    padding: 40px;
     background-color: #f5f5f5;
-    width: 60%;
-    padding: 50px;
-    margin: 100px;
-}
-.container .testimonials{
-    width: 90%;
-    height: 20%;
-    background-color: white;
-    border-radius: 5px;
-    border:1px solid grey ;
-    margin: 10px;
-    
-}
-p .para{
-    
-    padding: 10px;
-}
-.name{
+  }
+
+  .testimonial {
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    background-color: #fff;
+  }
+  .testimonial-text {
+    margin: 0;
+  }
+
+  .testimonial-author {
+    margin: 0;
     text-align: right;
-}
+    font-style: italic;
+  }
