@@ -13,10 +13,10 @@
     margin: 10px;
     
 }
- p .para{
-    text-align: right;
+p .para{
+    
     padding: 10px;
 }
 .name{
-    text-align: end;
+    text-align: right;
 }
